@@ -1,6 +1,6 @@
 # Manojreddy08
 <p align="center"> 
- <img src="https://www.multidots.com/full-stack-development-need-know/"/> 
+ <img src="https://github.com/manojjreddy08/Manojreddy08/blob/main/Full_stack_developer-1-1.webp"/> 
 </p>
 <p align="center"><br>
 - I'm currently took a challenge of #100DaysOfCode in Python 
