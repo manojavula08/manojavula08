@@ -1,10 +1,8 @@
 [![MasterHead](https://github.com/manojjreddy08/Manojreddy08/blob/main/Full_stack_developer-1-1.webp)](https://manojjreddy08.io)
  <h1 align="center">Hi 👋, I'm Manoj reddy</h1>
-<h3 align="center">A passionate person to become a developer</h3>
-<img align="right" alt="Coding" width="400" src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c">
-
-<p align="left"> <img src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c" alt="manojjreddy08" /> </p>
-
+<h3 align="center">Aim to become a full stack developer</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/manojjreddy08/Manojreddy08/blob/main/coding.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manojjreddy08&label=Profile%20views&color=0e75b6&style=flat" alt="manojjreddy08" /> </p>
 <p align="left"> <a href="https://twitter.com/silenteyes04" target="blank"><img src="https://img.shields.io/twitter/follow/silenteyes04?logo=twitter&style=for-the-badge" alt="silenteyes04" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
