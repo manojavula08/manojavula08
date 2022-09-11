@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/manojjreddy08](https://github.com/manojjreddy08)
+- 👨‍💻 All of my projects are available at [https://github.com/manojavula08](https://github.com/manojavula08)
 
 - 💬 Ask me about **Python**
 
