@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at (https://github.com/manojavula08/100DaysOfCode)
+- 👨‍💻 All of my projects are available at [https://github.com/manojavula08/100DaysOfCode](https://github.com/manojavula08/100DaysOfCode)
 
 - 💬 Ask me about **Python**
 
